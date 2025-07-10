@@ -1,12 +1,3 @@
 # hello-world
-Just first example
+My hometown is VIET NAM.
 わたしのしゅっしんは VIET NAM です。
-
-ta la vua nha cac ban!dsadsdfds
-
-dasd
-asd
-asd
-asd
-asd
-asdasd
